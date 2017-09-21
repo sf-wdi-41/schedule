@@ -3,8 +3,60 @@
 
 [Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
+#### Week 2 - More JS and the DOM
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Iterator methods && Callbacks (JC)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Algorithm (JC)</a></td>
+<td>Review</td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP part 1(JC)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">Algorithm(KH)</a></td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Iterator methods && Callbacks (KH)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms (KH)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP part 2(JC)</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-00">Project 0 intro</a></td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-objects">Objects (KH)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX(JC)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Outcomes</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP Drills</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-00">Project 0</a></td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-objects">Objects (JC)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/giffaw ">3rd Party APIs intro/Lab(JC)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP Drills</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-00">Project 0</a></td>
+</tr>
+<tr>
+<td><strong>HW / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-1">Objects training</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-2">Spotify Lab</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-3">Geoquakes</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-4"></a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-5">Project 0</a></td>
+</tr>
+</tbody></table>
 
-#### Week 1
+#### Week 1 - HTML, CSS, JS, and THE DOM!!!!!!
 <table><thead>
    <tr>
       <th>June 26-30</th>
