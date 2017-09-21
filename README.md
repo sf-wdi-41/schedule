@@ -84,5 +84,5 @@
 **Slack Contacts**  
 
 Patricia: @patricia.anderson
-
+Kay: @kay
 Justin: @justincastilla
