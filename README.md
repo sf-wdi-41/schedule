@@ -3,6 +3,60 @@
 
 [Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
+
+#### Week 3 - Express, Routing and Mongo(ose)
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td>Show and Tell of Project 0 (Games)</td>
+<td><a href="https://github.com/sf-wdi-labs/software-development-best-practices">Software best practices (JC)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Mongoose & MongoDB (JC)</a></td>
+<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (JC)</a></td>
+<td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/sf-wdi-labs/js-intro-express">Express Library Intro(KH)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
+<td><a href="https://github.com/sf-wdi-labs/mongoose-associations">Mongoose Associations(JC)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely Intro</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (JC)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
+<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Outcomes</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (JC)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
+<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
+<td><a href="https://github.com/sf-wdi-36/project-01">Project 1 Intro(both)</a></td>
+</tr>
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-1">Express Params && Routes</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-2">Finish ToDo & Database pre-reading</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-3">Book App</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-3">Personal API && Tunely</a></td>
+<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week3.md#day-5">Project 1</a></td>
+</tr>
+</tbody></table>
+
 #### Week 2 - More JS and the DOM
 <table><thead>
 <tr>
