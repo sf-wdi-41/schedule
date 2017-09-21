@@ -10,8 +10,6 @@ The evening trainings and readings below will help you solidify work so far and/
 
 **Tuesday**
 
-* Fundamentals Check-in
-* Finish duck page
 * work on Personal Site
 
 **Wednesday**
