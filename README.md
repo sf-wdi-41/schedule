@@ -15,7 +15,7 @@
 </tr>
 </thead><tbody>
 <tr>
-<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><strong>9:15am - 10:20am</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Iterator methods && Callbacks (JC)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Algorithm (JC)</a></td>
 <td>Review</td>
@@ -23,7 +23,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">Algorithm(KH)</a></td>
 </tr>
 <tr>
-<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><strong>10:30am - 12:30pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Iterator methods && Callbacks (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
@@ -31,7 +31,7 @@
 <td><a href="https://github.com/sf-wdi-36/project-00">Project 0 intro</a></td>
 </tr>
 <tr>
-<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-objects">Objects (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX(JC)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Outcomes</a></td>
@@ -39,7 +39,7 @@
 <td><a href="https://github.com/sf-wdi-36/project-00">Project 0</a></td>
 </tr>
 <tr>
-<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><strong>3:00pm - 4:30pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-objects">Objects (JC)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/giffaw ">3rd Party APIs intro/Lab(JC)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
