@@ -241,6 +241,9 @@
 
 **Slack Contacts**  
 
-Patricia: @patricia.anderson
-Kay: @kay
+Patricia: @patricia.anderson 
+
+Kay: @kay 
+
+
 Justin: @justincastilla
