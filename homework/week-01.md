@@ -10,6 +10,8 @@ The evening trainings and readings below will help you solidify work so far and/
 
 **Tuesday**
 
+* Finish the site recreation training [in HTML/CSS Review](https://github.com/SF-WDI-LABS/site-recreation)
+* Finish as many levels as possible in the [CSS Diner challenge linked in the CSS Selectors Lecture](https://flukeout.github.io/)
 * work on Personal Site
 
 **Wednesday**
