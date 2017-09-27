@@ -27,8 +27,7 @@
 <tr>
 <td><strong>10:30am - 12:30pm</strong></td>
 <td>Breaking of Ice (ALL)</td>
-<td><a href="https://github.com/SF-WDI-LABS/css-selectors-and-classes-lab
-">CSS Selectors lab (JC)</a> </td>
+<td><a href="https://github.com/SF-WDI-LABS/css-selectors-and-classes-lab">CSS Selectors lab (JC)</a> </td>
 <td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (KH)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-functions">Functions (JC)</a></td>
 <td>Review (ALL)</td>
@@ -38,8 +37,7 @@
 <td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/command-line">Command Line Tools (KH)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/git-github">GitHub Workflow (JC)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chro<td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (KH)</a></td>
-me Dev Tools (JC) </a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/dom-manipulation">DOM Manipulation (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap (JC)</a></td>
 </tr>
@@ -48,8 +46,7 @@ me Dev Tools (JC) </a></td>
 <td><strong>3:00pm - 4:30pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/the-client-the-server-and-you/blob/master/README.md">Client, Server, and You (JC) </a></td>
 <td><a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Site (JC)</a></td>
-<td><td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools (JC) </a></td>
-</td>
+<td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools (JC) </a></td>
 <td><a href="https://github.com/sf-wdi-labs/dom-events-jquery">DOM Events</a>(JC)</td>
 <td><a href="https://github.com/SF-WDI-LABS/tic-tac-toe"</a>TicTacToe Intro(JC)</td>
 </tr>
