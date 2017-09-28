@@ -28,7 +28,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP part 2(JC)</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-00">Project 0 intro</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 intro</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm</strong></td>
@@ -36,7 +36,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX(JC)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Outcomes</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP Drills</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-00">Project 0</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm</strong></td>
@@ -44,15 +44,15 @@
 <td><a href="https://github.com/SF-WDI-LABS/giffaw ">3rd Party APIs intro/Lab(JC)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP Drills</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-00">Project 0</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
 </tr>
 <tr>
 <td><strong>HW / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-1">Objects training</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-2">Spotify Lab</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-3">Geoquakes</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-4"></a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-5">Project 0</a></td>
+<td><a href="https://github.com/sf-wdi-41/schedule/tree/week-02/homework/week-02.md#Monday">Objects training</a></td>
+<td><a href="https://github.com/sf-wdi-41/schedule/tree/week-02/homework/week-02.md#Tuesday">Spotify Lab</a></td>
+<td><a href="https://github.com/sf-wdi-41/schedule/tree/week-02/homework/week-02.md#Wednesday">Geoquakes</a></td>
+<td><a href="https://github.com/sf-wdi-41/schedule/tree/week-02/homework/week-02.md#Thursday"></a></td>
+<td><a href="https://github.com/sf-wdi-41/schedule/tree/week-02/homework/week-02.md#Friday">Project 0</a></td>
 </tr>
 </tbody></table>
 
