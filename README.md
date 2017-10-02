@@ -53,6 +53,10 @@
 </tr>
 </tbody></table>
 
+# SF WDI 41 Schedule
+
+[Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link) |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
+
 #### Week 1 - HTML, CSS, JS, and THE DOM!!!!!!
 <table><thead>
    <tr>
@@ -76,8 +80,7 @@
 <tr>
 <td><strong>10:30am - 12:30pm</strong></td>
 <td>Breaking of Ice (ALL)</td>
-<td><a href="https://github.com/SF-WDI-LABS/css-selectors-and-classes-lab
-">CSS Selectors lab (JC)</a> </td>
+<td><a href="https://github.com/SF-WDI-LABS/css-selectors-and-classes-lab">CSS Selectors lab (JC)</a> </td>
 <td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (KH)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-functions">Functions (JC)</a></td>
 <td>Review (ALL)</td>
@@ -87,7 +90,7 @@
 <td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/command-line">Command Line Tools (KH)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/git-github">GitHub Workflow (JC)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools (JC) </a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/dom-manipulation">DOM Manipulation (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap (JC)</a></td>
 </tr>
@@ -96,7 +99,7 @@
 <td><strong>3:00pm - 4:30pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/the-client-the-server-and-you/blob/master/README.md">Client, Server, and You (JC) </a></td>
 <td><a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Site (JC)</a></td>
-<td>Outcomes (MJ)</td>
+<td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools (JC) </a></td>
 <td><a href="https://github.com/sf-wdi-labs/dom-events-jquery">DOM Events</a>(JC)</td>
 <td><a href="https://github.com/SF-WDI-LABS/tic-tac-toe"</a>TicTacToe Intro(JC)</td>
 </tr>
@@ -115,7 +118,7 @@
 ***<a href="https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1OLokItvRDBU2BEpVQ3Qr1DWyk9DEdY9Gj6YVr1Pxo_Y/edit?usp=sharing">Week 1 and 2 Mandatory 1:1 schedule</a>***
 
 <p align="center">
-<img src="PhotoFunia-1497888882.gif" >
+<img src="#" >
 </p>
 
 #### Generic Schedule Overview
