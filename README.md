@@ -33,7 +33,7 @@
 <td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-objects">Objects (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX(JC)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Outcomes</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP Drills</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
 </tr>
@@ -41,7 +41,7 @@
 <td><strong>3:00pm - 4:30pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-objects">Objects (JC)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/giffaw ">3rd Party APIs intro/Lab(JC)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Outcomes</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP Drills</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
 </tr>
