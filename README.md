@@ -6,11 +6,11 @@
 <table><thead>
 <tr>
 <th>Time</th>
-<th>Day 1</th>
-<th>Day 2</th>
-<th>Day 3</th>
-<th>Day 4</th>
-<th>Day  5</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
 </tr>
 </thead><tbody>
 <tr>
