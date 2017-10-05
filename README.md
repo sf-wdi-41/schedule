@@ -1,4 +1,4 @@
- [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
+ [Outcomes](https://drive.google.com/a/generalassemb.ly/file/d/0B5K--i6yxjUjWExaZWNiOEdKOFk/view?usp=sharing)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
 #### Week 2 - More JS and the DOM
 <table><thead>
