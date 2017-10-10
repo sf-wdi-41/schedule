@@ -18,7 +18,7 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td>Show and Tell of Project 0 (Games)</td>
-<td><a href="https://github.com/sf-wdi-labs/software-development-best-practices">Software best practices (JC)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Post Routing (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Mongoose & MongoDB (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
