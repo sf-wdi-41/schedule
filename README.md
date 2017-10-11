@@ -35,7 +35,7 @@
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Outcomes</a></td>
+<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
 <td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-labs/github-collaboration">Github Collaboration (both)</a></td>
 </tr>
@@ -43,7 +43,7 @@
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
+<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Outcomes</a></td>
 <td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-01">Project 1 Intro(both)</a></td>
 </tr>
