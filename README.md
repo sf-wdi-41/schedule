@@ -20,7 +20,7 @@
 <td>Show and Tell of Project 0 (Games)</td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Post Routing (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Mongoose & MongoDB (JC)</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (JC)</a></td>
+<td><a href="#">Book App Reivew (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@
 <td><a href="https://github.com/sf-wdi-labs/js-intro-express">Express Library Intro(KH)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-labs/mongoose-associations">Mongoose Associations(JC)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely Intro</a></td>
+<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
-<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely Intro</a></td>
 <td><a href="https://github.com/sf-wdi-labs/github-collaboration">Github Collaboration (both)</a></td>
 </tr>
 <tr>
