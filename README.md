@@ -20,7 +20,7 @@
 <td>Show and Tell of Project 0 (Games)</td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Post Routing (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Mongoose & MongoDB (JC)</a></td>
-<td><a href="#">Book App Reivew (JC)</a></td>
+<td><a href="#">Book App Reivew (KH)</a></td>
 <td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
 </tr>
 <tr>
