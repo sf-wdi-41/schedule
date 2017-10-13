@@ -1,8 +1,6 @@
-
-
 # SF WDI 41 Schedule
 
-[Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
+[Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link) |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
 ***<a href="https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1OLokItvRDBU2BEpVQ3Qr1DWyk9DEdY9Gj6YVr1Pxo_Y/edit?usp=sharing">One on one schedule</a>***
 
@@ -94,9 +92,9 @@ https://github.com/sf-wdi-41-homework/project-01
 <tr>
 <td><strong>9:15am - 10:20am Module 1</strong></td>
 <td>Show and Tell of Project 0 (Games)</td>
-<td><a href="https://github.com/sf-wdi-labs/software-development-best-practices">Software best practices (JC)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Post Routing (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Mongoose & MongoDB (JC)</a></td>
-<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (JC)</a></td>
+<td><a href="#">Book App Reivew (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-36/tunely">Tunely</a></td>
 </tr>
 <tr>
@@ -104,22 +102,22 @@ https://github.com/sf-wdi-41-homework/project-01
 <td><a href="https://github.com/sf-wdi-labs/js-intro-express">Express Library Intro(KH)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-labs/mongoose-associations">Mongoose Associations(JC)</a></td>
-<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely Intro</a></td>
+<td><a href="https://github.com/sf-wdi-36/express-personal-api">Personal API && Heroku Integration (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Outcomes</a></td>
-<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
+<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
+<td><a href="https://github.com/sf-wdi-labs/tunely">Tunely Intro</a></td>
 <td><a href="https://github.com/sf-wdi-labs/github-collaboration">Github Collaboration (both)</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Parameters && Routes (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
-<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
+<td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Outcomes</a></td>
 <td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
 ">Project 1 Intro(both)</a></td>
@@ -138,11 +136,11 @@ https://github.com/sf-wdi-41-homework/project-01
 <table><thead>
 <tr>
 <th>Time</th>
-<th>Day 1</th>
-<th>Day 2</th>
-<th>Day 3</th>
-<th>Day 4</th>
-<th>Day  5</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
 </tr>
 </thead><tbody>
 <tr>
@@ -159,33 +157,34 @@ https://github.com/sf-wdi-41-homework/project-01
 <td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP part 2(JC)</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-00">Project 0 intro</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 intro</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-objects">Objects (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX(JC)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Outcomes</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP Drills</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-00">Project 0</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-objects">Objects (JC)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/giffaw ">3rd Party APIs intro/Lab(JC)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/geoquakes">Outcomes</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP Drills</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-00">Project 0</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
 </tr>
 <tr>
 <td><strong>HW / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-1">Objects training</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-2">Spotify Lab</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-3">Geoquakes</a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-4"></a></td>
-<td><a href="https://github.com/sf-wdi-36/schedule-36/blob/master/homework/week2.md#day-5">Project 0</a></td>
+<td><a href="https://github.com/sf-wdi-41/schedule/tree/week-02/homework/week-02.md#Monday">Objects training</a></td>
+<td><a href="https://github.com/sf-wdi-41/schedule/tree/week-02/homework/week-02.md#Tuesday">Spotify Lab</a></td>
+<td><a href="https://github.com/sf-wdi-41/schedule/tree/week-02/homework/week-02.md#Wednesday">Geoquakes</a></td>
+<td><a href="https://github.com/sf-wdi-41/schedule/tree/week-02/homework/week-02.md#Thursday"></a></td>
+<td><a href="https://github.com/sf-wdi-41/schedule/tree/week-02/homework/week-02.md#Friday">Project 0</a></td>
 </tr>
 </tbody></table>
+
 
 #### Week 1 - HTML, CSS, JS, and THE DOM!!!!!!
 <table><thead>
@@ -210,8 +209,7 @@ https://github.com/sf-wdi-41-homework/project-01
 <tr>
 <td><strong>10:30am - 12:30pm</strong></td>
 <td>Breaking of Ice (ALL)</td>
-<td><a href="https://github.com/SF-WDI-LABS/css-selectors-and-classes-lab
-">CSS Selectors lab (JC)</a> </td>
+<td><a href="https://github.com/SF-WDI-LABS/css-selectors-and-classes-lab">CSS Selectors lab (JC)</a> </td>
 <td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (KH)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-functions">Functions (JC)</a></td>
 <td>Review (ALL)</td>
@@ -221,7 +219,7 @@ https://github.com/sf-wdi-41-homework/project-01
 <td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/command-line">Command Line Tools (KH)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/git-github">GitHub Workflow (JC)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools (JC) </a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/dom-manipulation">DOM Manipulation (KH)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap (JC)</a></td>
 </tr>
@@ -230,7 +228,7 @@ https://github.com/sf-wdi-41-homework/project-01
 <td><strong>3:00pm - 4:30pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/the-client-the-server-and-you/blob/master/README.md">Client, Server, and You (JC) </a></td>
 <td><a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Site (JC)</a></td>
-<td>Outcomes (MJ)</td>
+<td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools (JC) </a></td>
 <td><a href="https://github.com/sf-wdi-labs/dom-events-jquery">DOM Events</a>(JC)</td>
 <td><a href="https://github.com/SF-WDI-LABS/tic-tac-toe"</a>TicTacToe Intro(JC)</td>
 </tr>
@@ -248,7 +246,7 @@ https://github.com/sf-wdi-41-homework/project-01
 
 
 <p align="center">
-<img src="PhotoFunia-1497888882.gif" >
+<img src="#" >
 </p>
 
 #### Generic Schedule Overview
