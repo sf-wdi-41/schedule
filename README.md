@@ -32,44 +32,34 @@ https://github.com/sf-wdi-41-homework/project-01
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/node-express-local-auth">Local Auth with Passport (contd.)</a></td>
 
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td>Project 1 Presentations</td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td>Project 1 Presentations</td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td>Outcomes</td>
 <td>Project 1 Reflection/Feedback</td>
@@ -77,16 +67,12 @@ https://github.com/sf-wdi-41-homework/project-01
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td>sleep</td>
 </tr>
@@ -134,7 +120,6 @@ https://github.com/sf-wdi-41-homework/project-01
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Book App</a></td>
 <td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
-https://github.com/sf-wdi-41-homework/project-01
 ">Project 1 Intro(both)</a></td>
 </tr>
 <tr>
