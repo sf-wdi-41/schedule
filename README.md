@@ -18,7 +18,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:15am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-labs/github-collaboration1">Github Collaboration</a></td>
+<td><a href="https://github.com/sf-wdi-labs/github-collaboration">Github Collaboration</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/node-express-local-auth">Local Auth with Passport</a></td>
 
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
