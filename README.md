@@ -51,7 +51,7 @@ https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
-<td>Project 1 Presentations</td>
+<td>Outcomes</td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
@@ -61,7 +61,7 @@ https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
 <td><a href="https://github.com/sf-wdi-41-homework/project-01
 ">Project 1</a></td>
-<td>Outcomes</td>
+<td>Project 1</td>
 <td>Project 1 Reflection/Feedback</td>
 </tr>
 <tr>
