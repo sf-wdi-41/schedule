@@ -60,8 +60,8 @@
     <td id="d1m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Homework</a> </td>
     <td id="d2m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Homework</a> </td>
     <td id="d3m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Homework</a> </td>
-    <td id="d4m5"><a href="https://www.github.com/sf-wdi-labs/assignment"Homework</a> </td>
-    <td id="d5m5"><a href="https://www.github.com/sf-wdi-labs/assignment"Homework</a> </td>
+    <td id="d4m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Homework</a> </td>
+    <td id="d5m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Homework</a> </td>
   </tr>
   </tbody>
 </table>
