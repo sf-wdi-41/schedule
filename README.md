@@ -40,7 +40,7 @@
   <tr>
     <td><strong>1:30pm - 3:00pm  Module 3</strong></td>
     <td id="d1m3"><a href="https://www.github.com/sf-wdi-labs/es6-1">ES6 Refresh I</a> KH</td>
-    <td id="d2m3"><a href="https://www.github.com/sf-wdi-labs/assignment">React Props I</a> KH</td>
+    <td id="d2m3"><a href="https://www.github.com/sf-wdi-labs/react-intro-2">React Props I</a> KH</td>
     <td id="d3m3"><a href="https://www.github.com/sf-wdi-labs/todo-app-react">React Todo Intro</a> KH</td>
     <td id="d4m3"><a href="https://www.github.com/,sf-wdi-labs/assignment">React Geoquakes Intro</a> JC</td>
     <td id="d5m3"><a href="https://www.github.com/sf-wdi-labs/assignment">Giphy w/ React</a> LAB</td>
