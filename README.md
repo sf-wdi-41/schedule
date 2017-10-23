@@ -2,6 +2,142 @@
 
 [Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link) |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
+***<a href="https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1OLokItvRDBU2BEpVQ3Qr1DWyk9DEdY9Gj6YVr1Pxo_Y/edit?usp=sharing">One on one schedule</a>***
+
+#### Week 5 - Don't overREACT
+
+<table>
+  <thead>
+    <tr>
+    <th>Time</th>
+      <th>Day 1</th>
+      <th>Day 2</th>
+      <th>Day 3</th>
+      <th>Day 4</th>
+      <th>Day 5</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  <!--  Module 1 -->
+  <tr>
+    <td><strong>9:15am - 10:20am Module 1</strong></td>
+    <td id="d1m1"><a href="https://www.github.com/sf-wdi-labs/assignment">Presentations</a> JC</td>
+    <td id="d2m1"><a href="https://www.github.com/sf-wdi-labs/assignment">React Intro</a> JC</td>
+    <td id="d3m1"><a href="https://www.github.com/sf-wdi-labs/assignment">State I</a> KH</td>
+    <td id="d4m1"><a href="https://www.github.com/sf-wdi-labs/assignment">Component Lifecycle</a> KH</td>
+    <td id="d5m1"><a href="https://www.github.com/sf-wdi-labs/assignment">Review</a> CO-TEACH</td>
+  </tr>
+  <!--  Module 2 -->
+  <tr>
+    <td><strong>10:30am - 12:30pm Module 2</strong></td>
+    <td id="d1m2"><a href="https://www.github.com/sf-wdi-labs/assignment">Presentations</a> </td>
+    <td id="d2m2"><a href="https://www.github.com/sf-wdi-labs/assignment">React Components II</a> JC</td>
+    <td id="d3m2"><a href="https://www.github.com/sf-wdi-labs/assignment">State II</a> JC</td>
+    <td id="d4m2"><a href="https://www.github.com/sf-wdi-labs/assignment">API access with React</a> JC</td>
+    <td id="d5m2"><a href="https://www.github.com/sf-wdi-labs/assignment">Review</a> CO-TEACH</td>
+  </tr>
+  <tr>
+    <td><strong>1:30pm - 3:00pm  Module 3</strong></td>
+    <td id="d1m3"><a href="https://www.github.com/sf-wdi-labs/assignment">ES6 Refresh I</a> KH</td>
+    <td id="d2m3"><a href="https://www.github.com/sf-wdi-labs/assignment">React Props I</a> KH</td>
+    <td id="d3m3"><a href="https://www.github.com/sf-wdi-labs/assignment">Todo</a> KH</td>
+    <td id="d4m3"><a href="https://www.github.com/,sf-wdi-labs/assignment">React Geoquakes Intro</a> JC</td>
+    <td id="d5m3"><a href="https://www.github.com/sf-wdi-labs/assignment">Giphy w/ React</a> LAB</td>
+  </tr>
+  <!--  Module 4 -->
+  <tr>
+    <td><strong>3:15pm - 4:30pm Module 4</strong></td>
+    <td id="d1m4"><a href="https://www.github.com/sf-wdi-labs/assignment">ES6 Refresh II</a> KH</td>
+    <td id="d2m4"><a href="https://www.github.com/sf-wdi-labs/assignment">React Props II</a> KH</td>
+    <td id="d3m4"><a href="https://www.github.com/sf-wdi-labs/assignment">Todo </a> LAB</td>
+    <td id="d4m4"><a href="https://www.github.com/sf-wdi-labs/assignment">React Geoquakes</a> LAB</td>
+    <td id="d5m4"><a href="https://www.github.com/sf-wdi-labs/assignment">Giphy w/ React</a> LAB</td>
+  </tr>
+  <!--  Module 5 -->
+  <tr>
+    <td><strong>Homework / Study</strong></td>
+    <td id="d1m5"><a href="https://www.github.com/sf-wdi-labs/assignment">ES6 Exercises</a> </td>
+    <td id="d2m5"><a href="https://www.github.com/sf-wdi-labs/assignment">React Todo Pt 1</a> </td>
+    <td id="d3m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Todo Pt 2</a> </td>
+    <td id="d4m5"><a href="https://www.github.com/sf-wdi-labs/assignment">React Geoquakes</a> </td>
+    <td id="d5m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Giphy w/ React</a> </td>
+  </tr>
+  </tbody>
+</table>
+
+#### Week 4 - Project 1
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:15am - 10:20am Module 1</strong></td>
+<td><a href="https://github.com/sf-wdi-labs/github-collaboration">Github Collaboration</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/node-express-local-auth">Local Auth with Passport</a></td>
+
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td>Project 1 Presentations</td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/node-express-local-auth">Local Auth with Passport (contd.)</a></td>
+
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td>Project 1 Presentations</td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+"></a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td>Project 1</td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Outcomes</a></td>
+<td>Project 1</td>
+<td>Project 1 Reflection/Feedback</td>
+</tr>
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1</a></td>
+<td>sleep</td>
+</tr>
+</tbody></table>
 
 #### Week 3 - Express, Routing and Mongo(ose)
 <table><thead>
@@ -15,7 +151,7 @@
 </tr>
 </thead><tbody>
 <tr>
-<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><strong>9:15am - 10:20am Module 1</strong></td>
 <td>Show and Tell of Project 0 (Games)</td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Post Routing (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-intro-mongoDB">Mongoose & MongoDB (JC)</a></td>
@@ -44,7 +180,8 @@
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-36/mongoose-books-app">Outcomes</a></td>
 <td><a href="https://github.com/sf-wdi-labs/tunely">Tunely</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-01">Project 1 Intro(both)</a></td>
+<td><a href="https://github.com/sf-wdi-41-homework/project-01
+">Project 1 Intro(both)</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
@@ -168,7 +305,6 @@
 </tbody></table>
 
 
-***<a href="https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1OLokItvRDBU2BEpVQ3Qr1DWyk9DEdY9Gj6YVr1Pxo_Y/edit?usp=sharing">Week 1 and 2 Mandatory 1:1 schedule</a>***
 
 <p align="center">
 <img src="#" >
@@ -188,6 +324,9 @@
 
 **Slack Contacts**  
 
-Patricia: @patricia.anderson
-Kay: @kay
+Patricia: @patricia.anderson 
+
+Kay: @kay 
+
+
 Justin: @justincastilla
