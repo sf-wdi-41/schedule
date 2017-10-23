@@ -24,7 +24,7 @@
     <td><strong>9:15am - 10:20am Module 1</strong></td>
     <td id="d1m1"><a href="https://www.github.com/sf-wdi-labs/assignment">Presentations</a> JC</td>
     <td id="d2m1"><a href="https://www.github.com/sf-wdi-labs/assignment">React Intro</a> JC</td>
-    <td id="d3m1"><a href="https://www.github.com/sf-wdi-labs/assignment">State I</a> KH</td>
+    <td id="d3m1"><a href="https://www.github.com/sf-wdi-labs/assignment">React State I</a> KH</td>
     <td id="d4m1"><a href="https://www.github.com/sf-wdi-labs/assignment">Component Lifecycle</a> KH</td>
     <td id="d5m1"><a href="https://www.github.com/sf-wdi-labs/assignment">Review</a> CO-TEACH</td>
   </tr>
@@ -33,7 +33,7 @@
     <td><strong>10:30am - 12:30pm Module 2</strong></td>
     <td id="d1m2"><a href="https://www.github.com/sf-wdi-labs/assignment">Presentations</a> </td>
     <td id="d2m2"><a href="https://www.github.com/sf-wdi-labs/assignment">React Components II</a> JC</td>
-    <td id="d3m2"><a href="https://www.github.com/sf-wdi-labs/assignment">State II</a> JC</td>
+    <td id="d3m2"><a href="https://www.github.com/sf-wdi-labs/assignment">React State II</a> JC</td>
     <td id="d4m2"><a href="https://www.github.com/sf-wdi-labs/assignment">API access with React</a> JC</td>
     <td id="d5m2"><a href="https://www.github.com/sf-wdi-labs/assignment">Review</a> CO-TEACH</td>
   </tr>
@@ -41,7 +41,7 @@
     <td><strong>1:30pm - 3:00pm  Module 3</strong></td>
     <td id="d1m3"><a href="https://www.github.com/sf-wdi-labs/assignment">ES6 Refresh I</a> KH</td>
     <td id="d2m3"><a href="https://www.github.com/sf-wdi-labs/assignment">React Props I</a> KH</td>
-    <td id="d3m3"><a href="https://www.github.com/sf-wdi-labs/assignment">Todo Intro</a> KH</td>
+    <td id="d3m3"><a href="https://www.github.com/sf-wdi-labs/assignment">React Todo Intro</a> KH</td>
     <td id="d4m3"><a href="https://www.github.com/,sf-wdi-labs/assignment">React Geoquakes Intro</a> JC</td>
     <td id="d5m3"><a href="https://www.github.com/sf-wdi-labs/assignment">Giphy w/ React</a> LAB</td>
   </tr>
@@ -50,18 +50,18 @@
     <td><strong>3:15pm - 4:30pm Module 4</strong></td>
     <td id="d1m4"><a href="https://www.github.com/sf-wdi-labs/assignment">ES6 Refresh II</a> KH</td>
     <td id="d2m4"><a href="https://www.github.com/sf-wdi-labs/assignment">React Props II</a> KH</td>
-    <td id="d3m4"><a href="https://www.github.com/sf-wdi-labs/assignment">Todo </a> LAB</td>
+    <td id="d3m4"><a href="https://www.github.com/sf-wdi-labs/assignment">React Todo </a> LAB</td>
     <td id="d4m4"><a href="https://www.github.com/sf-wdi-labs/assignment">React Geoquakes</a> LAB</td>
     <td id="d5m4"><a href="https://www.github.com/sf-wdi-labs/assignment">Giphy w/ React</a> LAB</td>
   </tr>
   <!--  Module 5 -->
   <tr>
     <td><strong>Homework / Study</strong></td>
-    <td id="d1m5"><a href="https://www.github.com/sf-wdi-labs/assignment">ES6 Exercises</a> </td>
-    <td id="d2m5"><a href="https://www.github.com/sf-wdi-labs/assignment">React Todo Pt 1</a> </td>
-    <td id="d3m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Todo Pt 2</a> </td>
-    <td id="d4m5"><a href="https://www.github.com/sf-wdi-labs/assignment">React Geoquakes</a> </td>
-    <td id="d5m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Giphy w/ React</a> </td>
+    <td id="d1m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Homework</a> </td>
+    <td id="d2m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Homework</a> </td>
+    <td id="d3m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Homework</a> </td>
+    <td id="d4m5"><a href="https://www.github.com/sf-wdi-labs/assignment"Homework</a> </td>
+    <td id="d5m5"><a href="https://www.github.com/sf-wdi-labs/assignment"Homework</a> </td>
   </tr>
   </tbody>
 </table>
