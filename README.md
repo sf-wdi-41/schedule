@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td><strong>1:30pm - 3:00pm  Module 3</strong></td>
-    <td id="d1m3"><a href="https://www.github.com/sf-wdi-labs/assignment">ES6 Refresh</a> JC</td>
+    <td id="d1m3"><a href="https://github.com/SF-WDI-LABS/es6-1">ES6 Refresh</a> JC</td>
     <td id="d2m3"><a href="https://www.github.com/sf-wdi-labs/assignment">React Props</a> JC</td>
     <td id="d3m3"><a href="https://www.github.com/sf-wdi-labs/assignment">Todo Pt 2</a> JC</td>
     <td id="d4m3"><a href="https://www.github.com/,sf-wdi-labs/assignment">React Geoquakes</a> JC</td>
@@ -48,7 +48,7 @@
   <!--  Module 4 -->
   <tr>
     <td><strong>3:15pm - 4:30pm Module 4</strong></td>
-    <td id="d1m4"><a href="https://www.github.com/sf-wdi-labs/assignment">ES6 Refresh</a> JC</td>
+    <td id="d1m4"><a href="https://github.com/SF-WDI-LABS/es6-1">ES6 Refresh</a> JC</td>
     <td id="d2m4"><a href="https://www.github.com/sf-wdi-labs/assignment">React Props</a> JC</td>
     <td id="d3m4"><a href="https://www.github.com/sf-wdi-labs/assignment">Todo Pt 2</a> JC</td>
     <td id="d4m4"><a href="https://www.github.com/sf-wdi-labs/assignment">React Geoquakes</a> JC</td>
@@ -57,7 +57,7 @@
   <!--  Module 5 -->
   <tr>
     <td><strong>Homework / Study</strong></td>
-    <td id="d1m5"><a href="https://www.github.com/sf-wdi-labs/assignment">ES6 Exercises</a> JC</td>
+    <td id="d1m5"><a href="https://github.com/SF-WDI-LABS/es6-1">ES6 Exercises</a> JC</td>
     <td id="d2m5"><a href="https://www.github.com/sf-wdi-labs/assignment">React Todo Pt 1</a> JC</td>
     <td id="d3m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Todo Pt 2</a> JC</td>
     <td id="d4m5"><a href="https://www.github.com/sf-wdi-labs/assignment">React Geoquakes</a> JC</td>
