@@ -23,7 +23,7 @@
   <tr>
     <td><strong>9:15am - 10:20am Module 1</strong></td>
     <td id="d1m1"><a href="https://www.github.com/sf-wdi-labs/project-01">Presentations</a> JC</td>
-    <td id="d2m1"><a href="https://www.github.com/sf-wdi-labs/react-intro">React Intro</a> JC</td>
+    <td id="d2m1"><a href="https://github.com/SF-WDI-LABS/react-intro">React Intro</a> JC</td>
     <td id="d3m1"><a href="https://www.github.com/sf-wdi-labs/react-continued">React State I</a> KH</td>
     <td id="d4m1"><a href="https://www.github.com/sf-wdi-labs/react-intro">Component Lifecycle</a> KH</td>
     <td id="d5m1"><a href="https://www.github.com/sf-wdi-labs/react-review">Review</a> CO-TEACH</td>
@@ -32,7 +32,7 @@
   <tr>
     <td><strong>10:30am - 12:30pm Module 2</strong></td>
     <td id="d1m2"><a href="https://www.github.com/sf-wdi-labs/project-01">Presentations</a> </td>
-    <td id="d2m2"><a href="https://www.github.com/sf-wdi-labs/react-continued-2">React Components II</a> JC</td>
+    <td id="d2m2"><a href="https://github.com/SF-WDI-LABS/react-intro">React Components II</a> JC</td>
     <td id="d3m2"><a href="https://www.github.com/sf-wdi-labs/react-intro-2">React State II</a> JC</td>
     <td id="d4m2"><a href="https://www.github.com/sf-wdi-labs/assignment">API access with React</a> JC</td>
     <td id="d5m2"><a href="https://www.github.com/sf-wdi-labs/react-review">Review</a> CO-TEACH</td>
