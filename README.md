@@ -33,7 +33,7 @@
     <td><strong>10:30am - 12:30pm Module 2</strong></td>
     <td id="d1m2"><a href="https://www.github.com/sf-wdi-labs/project-01">Presentations</a> </td>
     <td id="d2m2"><a href="https://github.com/SF-WDI-LABS/react-intro">React Components II</a> JC</td>
-    <td id="d3m2"><a href="https://github.com/sf-wdi-41/dentist-website-refactor">React Review</a> JC</td>
+    <td id="d3m2">React Review & <a href="https://github.com/sf-wdi-41/dentist-website-refactor">React Router</a> JC</td>
     <td id="d4m2"><a href="https://www.github.com/sf-wdi-labs/assignment">API access with React</a> JC</td>
     <td id="d5m2"><a href="https://www.github.com/sf-wdi-labs/react-review">Review</a> CO-TEACH</td>
   </tr>
