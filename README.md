@@ -25,7 +25,7 @@
     <td id="d1m1"><a href="https://www.github.com/sf-wdi-labs/project-01">Presentations</a> JC</td>
     <td id="d2m1"><a href="https://github.com/SF-WDI-LABS/react-intro">React Intro</a> JC</td>
     <td id="d3m1"><a href="https://www.github.com/sf-wdi-labs/react-continued">React State I</a> KH</td>
-    <td id="d4m1"><a href="https://github.com/SF-WDI-LABS/js-linked-list">Linked Lists</a> KH</td>
+    <td id="d4m1"><a href="https://github.com/SF-WDI-LABS/js-linked-list">Linked Lists</a> JC</td>
     <td id="d5m1"><a href="https://www.github.com/sf-wdi-labs/react-review">Review</a> CO-TEACH</td>
   </tr>
   <!--  Module 2 -->
