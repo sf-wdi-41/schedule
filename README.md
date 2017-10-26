@@ -25,7 +25,7 @@
     <td id="d1m1"><a href="https://www.github.com/sf-wdi-labs/project-01">Presentations</a> JC</td>
     <td id="d2m1"><a href="https://github.com/SF-WDI-LABS/react-intro">React Intro</a> JC</td>
     <td id="d3m1"><a href="https://www.github.com/sf-wdi-labs/react-continued">React State I</a> KH</td>
-    <td id="d4m1"><a href="https://www.github.com/sf-wdi-labs/react-intro">Component Lifecycle</a> KH</td>
+    <td id="d4m1"><a href="https://github.com/SF-WDI-LABS/js-linked-list">Linked Lists</a> KH</td>
     <td id="d5m1"><a href="https://www.github.com/sf-wdi-labs/react-review">Review</a> CO-TEACH</td>
   </tr>
   <!--  Module 2 -->
@@ -34,7 +34,7 @@
     <td id="d1m2"><a href="https://www.github.com/sf-wdi-labs/project-01">Presentations</a> </td>
     <td id="d2m2"><a href="https://github.com/SF-WDI-LABS/react-intro">React Components II</a> JC</td>
     <td id="d3m2">React Review & <a href="https://github.com/sf-wdi-41/dentist-website-refactor">React Router</a> JC</td>
-    <td id="d4m2"><a href="https://www.github.com/sf-wdi-labs/assignment">API access with React</a> JC</td>
+    <td id="d4m2"><a href="https://github.com/SF-WDI-LABS/react-component-lifecycle">The Component Lifecycle & accessing APIs w/ React</a> JC</td>
     <td id="d5m2"><a href="https://www.github.com/sf-wdi-labs/react-review">Review</a> CO-TEACH</td>
   </tr>
   <tr>
