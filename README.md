@@ -42,7 +42,7 @@
     <td id="d1m3"><a href="https://www.github.com/sf-wdi-labs/es6-1">ES6 Refresh I</a> KH</td>
     <td id="d2m3"><a href="https://www.github.com/sf-wdi-labs/react-intro-2">React Props I</a> KH</td>
     <td id="d3m3"><a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React Todo Intro Sprints 0 1 & 2</a> KH</td>
-    <td id="d4m3"><a href="https://www.github.com/,sf-wdi-labs/assignment">React Geoquakes Intro</a> JC</td>
+    <td id="d4m3"><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo Sprints 3, 4, 5 & 6</a> JC</td>
     <td id="d5m3"><a href="https://www.github.com/sf-wdi-labs/assignment">Giphy w/ React</a> LAB</td>
   </tr>
   <!--  Module 4 -->
@@ -51,7 +51,7 @@
     <td id="d1m4"><a href="https://www.github.com/sf-wdi-labs/es6-1">ES6 Refresh II</a> KH</td>
     <td id="d2m4"><a href="https://www.github.com/sf-wdi-labs/assignment">React Props II</a> KH</td>
     <td id="d3m4"><a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React Todo Sprints 0 1 & 2 </a> LAB</td>
-    <td id="d4m4"><a href="https://www.github.com/sf-wdi-labs/assignment">React Geoquakes</a> LAB</td>
+    <td id="d4m4"><a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo Sprints 3, 4, 5 & 6</a> JC</td>
     <td id="d5m4"><a href="https://www.github.com/sf-wdi-labs/assignment">Giphy w/ React</a> LAB</td>
   </tr>
   <!--  Module 5 -->
