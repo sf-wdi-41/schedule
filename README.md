@@ -4,6 +4,70 @@
 
 ***<a href="https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1OLokItvRDBU2BEpVQ3Qr1DWyk9DEdY9Gj6YVr1Pxo_Y/edit?usp=sharing">One on one schedule</a>***
 
+#### Week 6 - Project Wayfarer
+
+<table>
+  <thead>
+    <tr>
+    <th>Time</th>
+      <th>Day 1</th>
+      <th>Day 2</th>
+      <th>Day 3</th>
+      <th>Day 4</th>
+      <th>Day 5</th>
+    </tr>
+  </thead>
+  <tbody>
+
+  <!--  Module 1 -->
+  <tr>
+    <td><strong>9:15am - 10:20am Module 1</strong></td>
+    <td id="d1m1"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d2m1"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d3m1"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d4m1"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d5m1"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+  </tr>
+  <!--  Module 2 -->
+  <tr>
+    <td><strong>10:30am - 12:30pm Module 2</strong></td>
+    <td id="d1m2"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d2m2"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d3m2"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d4m2"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d5m2"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+  </tr>
+  <tr>
+    <td><strong>1:30pm - 3:00pm  Module 3</strong></td>
+    <td id="d1m3"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d2m3"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d3m3"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d4m3"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d5m3"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+  </tr>
+  <!--  Module 4 -->
+  <tr>
+    <td><strong>3:15pm - 4:30pm Module 4</strong></td>
+    <td id="d1m4"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d2m4"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d3m4"><a href="#">Outcomes</a> Ari</td>
+    <td id="d4m4"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d5m4"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+  </tr>
+  <!--  Module 5 -->
+  <tr>
+    <td><strong>Homework / Study</strong></td>
+    <td id="d1m5"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d2m5"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d3m5"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> Ari</td>
+    <td id="d4m5"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+    <td id="d5m5"><a href="https://github.com/sf-wdi-41/project-wayfarer">Project Wayfarer</a> All</td>
+  </tr>
+  </tbody>
+</table>
+
+
+ 
 #### Week 5 - Don't overREACT
 
 <table>
