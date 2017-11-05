@@ -23,10 +23,10 @@
   <!--  Module 1 -->
   <tr>
     <td><strong>9:15am - 10:20am Module 1</strong></td>
-    <td id="d1m1"><a href="https://github.com/sf-wdi-labs/intro-ruby">Ruby Intro</a> JC</td>
-    <td id="d2m1"><a href="https://github.com/sf-wdi-labs/ruby_method_drills">Ruby Method Drills</a> JC</td>
-    <td id="d3m1"><a href="https://github.com/SF-WDI-LABS/merge">Merge Sort</a> JC</td>
-    <td id="d4m1"><a href="https://github.com/SF-WDI-LABS/bubble_sort_ruby">Bubble Sort</a> JC</td>
+    <td id="d1m1"><a href="https://github.com/sf-wdi-labs/intro-ruby">Ruby Intro</a> KH</td>
+    <td id="d2m1"><a href="https://github.com/sf-wdi-labs/ruby_method_drills">Ruby Method Drills</a> KH</td>
+    <td id="d3m1"><a href="https://github.com/SF-WDI-LABS/merge">Merge Sort</a> KH</td>
+    <td id="d4m1"><a href="https://github.com/SF-WDI-LABS/bubble_sort_ruby">Bubble Sort</a> KH</td>
     <td id="d5m1"><a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/cats-in-hats">Cats in Hats!</a> JC</td>
   </tr>
   <!--  Module 2 -->
@@ -40,11 +40,11 @@
   </tr>
   <tr>
     <td><strong>1:30pm - 3:00pm  Module 3</strong></td>
-    <td id="d1m3"><a href="https://github.com/SF-WDI-LABS/ruby-arrays-hashes-practice">Ruby arrays, hashes, and blocks</a> JC</td>
-    <td id="d2m3"><a href="https://github.com/SF-WDI-LABS/tdd-roman-numerals">TDD Roman Numerals</a> JC</td>
-    <td id="d3m3"><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP</a> JC</td>
-    <td id="d4m3"><a href="https://github.com/sf-wdi-labs/rspec">RSpec</a> JC</td>
-    <td id="d5m3"><a href="https://github.com/SF-WDI-LABS/ruby-monster-oop">Ruby Monster OOP</a> JC</td>
+    <td id="d1m3"><a href="https://github.com/SF-WDI-LABS/ruby-arrays-hashes-practice">Ruby arrays, hashes, and blocks</a> KH</td>
+    <td id="d2m3"><a href="https://github.com/SF-WDI-LABS/tdd-roman-numerals">TDD Roman Numerals</a> KH</td>
+    <td id="d3m3"><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP</a> KH</td>
+    <td id="d4m3"><a href="https://github.com/sf-wdi-labs/rspec">RSpec</a> KH</td>
+    <td id="d5m3"><a href="https://github.com/SF-WDI-LABS/ruby-monster-oop">Ruby Monster OOP</a> KH</td>
   </tr>
   <!--  Module 4 -->
   <tr>
@@ -58,11 +58,11 @@
   <!--  Module 5 -->
   <tr>
     <td><strong>Homework / Study</strong></td>
-    <td id="d1m5"><a href="https://github.com/SF-WDI-LABS/ruby-koans">Finish Ruby Koans</a> JC</td>
-    <td id="d2m5"><a href="https://github.com/SF-WDI-LABS/ruby-regular-expressions">Study and Practice Regular Expressions</a> JC</td>
-    <td id="d3m5"><a href="https://github.com/SF-WDI-LABS/username-generator">Username Generator</a> JC</td>
-    <td id="d4m5"><a href="https://github.com/SF-WDI-LABS/ruby-methods-swarm">Ruby Swarm!</a> JC</td>
-    <td id="d5m5"><a href="https://github.com/sf-wdi-labs/wheel_of_fortune">Wheel of Fortune</a> JC</td>
+    <td id="d1m5"><a href="https://github.com/SF-WDI-LABS/ruby-koans">Finish Ruby Koans</a> </td>
+    <td id="d2m5"><a href="https://github.com/SF-WDI-LABS/ruby-regular-expressions">Study and Practice Regular Expressions</a> </td>
+    <td id="d3m5"><a href="https://github.com/SF-WDI-LABS/username-generator">Username Generator</a> </td>
+    <td id="d4m5"><a href="https://github.com/SF-WDI-LABS/ruby-methods-swarm">Ruby Swarm!</a> </td>
+    <td id="d5m5"><a href="https://github.com/sf-wdi-labs/wheel_of_fortune">Wheel of Fortune</a> </td>
   </tr>
   </tbody>
 </table>
