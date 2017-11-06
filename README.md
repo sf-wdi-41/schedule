@@ -32,7 +32,7 @@
   <!--  Module 2 -->
   <tr>
     <td><strong>10:30am - 12:30pm Module 2</strong></td>
-    <td id="d1m2"><a href="https://github.com/sf-wdi-labs/idiomatic-ruby">Idiomatic Ruby</a> JC</td>
+    <td id="d1m2"><a href="https://github.com/SF-WDI-LABS/ruby-methods">Ruby Methods</a> JC</td>
     <td id="d2m2"><a href="https://github.com/sf-wdi-labs/ruby_method_drills">Ruby Method Drills</a> JC</td>
     <td id="d3m2"><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP</a> JC</td>
     <td id="d4m2"><a href="https://github.com/sf-wdi-labs/rspec">RSpec</a> JC</td>
