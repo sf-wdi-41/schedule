@@ -27,7 +27,7 @@
     <td id="d2m1"><a href="https://github.com/sf-wdi-labs/ruby_method_drills">Ruby Method Drills</a> KH</td>
     <td id="d3m1"><a href="https://github.com/SF-WDI-LABS/merge">Merge Sort</a> KH</td>
     <td id="d4m1"><a href="https://github.com/SF-WDI-LABS/bubble_sort_ruby">Bubble Sort</a> KH</td>
-    <td id="d5m1"><a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/cats-in-hats">Cats in Hats!</a> JC</td>
+    <td id="d5m1"><a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/cats-in-hats">Cats in Hats!</a> KH</td>
   </tr>
   <!--  Module 2 -->
   <tr>
