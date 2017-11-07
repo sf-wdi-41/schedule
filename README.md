@@ -50,7 +50,7 @@
   <tr>
     <td><strong>3:15pm - 4:30pm Module 4</strong></td>
     <td id="d1m4"><a href="https://github.com/SF-WDI-LABS/ruby-koans">Ruby Koans</a> JC</td>
-    <td id="d2m4"><a href="https://github.com/sf-wdi-labs/ruby-oop">Ruby OOP</a> KH</td>
+    <td id="d2m4"><a href="https://github.com/SF-WDI-LABS/ruby-oop-race-car-lab">Ruby OOP</a> KH</td>
     <td id="d3m4"><a href="https://github.com/SF-WDI-LABS/tdd-roman-numerals">TDD Roman Numerals</a>KH</td>
     <td id="d4m4"><a href="https://github.com/SF-WDI-LABS/build-your-own-ruby-gem">Build your own Ruby Gem!</a> JC</td>
     <td id="d5m4"><a href="https://github.com/sf-wdi-labs/wheel_of_fortune">Wheel of Fortune</a> JC</td>
