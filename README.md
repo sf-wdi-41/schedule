@@ -52,8 +52,8 @@
       <td><strong>Training / Office Hours</strong></td>
       <td><a href="homework/week-09.md#monday">Homework</a></td>
       <td><a href="homework/week-09.md#tuesday">Homework</a></td>
-      <td><a href="homework/week-09.md#wednesday">Homework</a></td>
-      <td><a href="homework/week-09.md#thursday">Homework</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/intro-sql">SQL Reading</a></td>
+      <td><a href="homework/week-0`9.md#thursday">Homework</a></td>
       <td><a href="homework/week-09.md#friday">Homework</a></td>
     </tr>
   </tbody>
