@@ -4,6 +4,62 @@
 
 ***<a href="https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1OLokItvRDBU2BEpVQ3Qr1DWyk9DEdY9Gj6YVr1Pxo_Y/edit?usp=sharing">One on one schedule</a>***
 
+#### Week 9
+<table><thead>
+<tr>
+<th>November 20 - Noveber 24</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:15am - 10:20am </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Rails Asset Pipeline</a> (JC)</td>
+      <td><a href="#">Lightning Talk Presentations</a> (JC) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Turkey</a> (KH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-associations">Turkey</a> (KH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/cookies-sessions">Turkey</a> (KH/JC)</td>
+    </tr>
+    <tr>
+      <td><strong>10:30am - 12:30pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-js-and-turbolinks">Rails Javascript and Turbolinks</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/con-pletionist">con-pletionist</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Turkey</a> (LAB)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-associations">Turkey</a> (KH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-auth">Turkey</a> (KH/JC)</td>
+    </tr>
+    <tr>
+      <td><strong>1:30pm - 2:50pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/asset-pipeline-poem">Asset Pipeline Poem</a> (KH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/migrations">Turkey</a> (KH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Turkey</a> (LAB)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Turkey</a> (JC)</td>
+      <td> Turkey (KH,JC)</td>
+    </tr>
+    <tr>
+      <td><strong>3:00pm - 4:30pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Rails Lightning Talks</a> (KH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/migrations">Turkey</a> (KH)</td>
+      <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Turkey </a></td>
+      <td> <a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Turkey</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/public-library-app">Turkey</a> (JC)</td>
+    </tr>
+    <tr>
+      <td><strong>Training / Office Hours</strong></td>
+      <td><a href="homework/week-09.md#monday">Homework</a></td>
+      <td><a href="homework/week-09.md#tuesday">Homework</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/intro-sql">Turkey</a></td>
+      <td><a href="homework/week-0`9.md#thursday">Turkeyk</a></td>
+      <td><a href="homework/week-09.md#friday">Turkey</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
 #### Week 8
 <table><thead>
 <tr>
