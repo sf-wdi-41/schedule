@@ -27,7 +27,7 @@
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
       <td><a href="https://github.com/SF-WDI-LABS/rails-js-and-turbolinks">Rails Javascript and Turbolinks</a> (JC)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/con-pletionist">con-pletionist</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/Ruby-on-Rails-Project-1-Refactor-Lab">Project 1 Refactor Rush</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Turkey</a> (LAB)</td>
       <td><a href="https://github.com/SF-WDI-LABS/rails-associations">Turkey</a> (KH)</td>
       <td><a href="https://github.com/SF-WDI-LABS/rails-auth">Turkey</a> (KH/JC)</td>
