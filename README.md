@@ -4,6 +4,61 @@
 
 ***<a href="https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1OLokItvRDBU2BEpVQ3Qr1DWyk9DEdY9Gj6YVr1Pxo_Y/edit?usp=sharing">One on one schedule</a>***
 
+#### Week 10
+<table><thead>
+<tr>
+<th>November 27 - December 1</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:15am - 10:20am </strong></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+    </tr>
+    <tr>
+      <td><strong>10:30am - 12:30pm </strong></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+    </tr>
+    <tr>
+      <td><strong>1:30pm - 2:50pm </strong></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+    </tr>
+    <tr>
+      <td><strong>3:00pm - 4:30pm </strong></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+    </tr>
+    <tr>
+      <td><strong>Training / Office Hours</strong></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+    </tr>
+  </tbody>
+</table>
+
 #### Week 9
 <table><thead>
 <tr>
