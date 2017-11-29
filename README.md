@@ -20,7 +20,7 @@
       <td><strong>9:15am - 10:20am </strong></td>
       <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
       <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
-      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02"><a href="https://github.com/sf-wdi-41/schedule/blob/master/git-review.md">Git Review</a></td>
       <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
       <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
     </tr>
