@@ -49,12 +49,21 @@ __What can I do with git?__
 
 You can experiment with code safely using git. Without git, every change you make has the potential to break your application. With git, you can use branches to test anything and everything then save only the changes you like.
 
-__How can I create a new branch when I've already made changes?__
+__How can I create a new branch when I've already *staged* (git add) new changes?__
 
 You can:
 - Unstage files: `git rm directory/filename.ext`
 - You can create a new branch before committing: 
 `git checkout -b newbranch`
+
+__...what if I *committed* the new file/folder?__
+
+Then you can just create a new commit (recommended) or:
+- Rollback the commit and then remove it: 
+`git reset --soft commit_hash; git rm filename.ext --cached`
+- Delete the file and amend the commit: 
+`git commit --amend -m "Commit message."`
+
 
 __What if the master branch has changed while I was making changes?__
 
@@ -68,19 +77,6 @@ Only if you push it to Github. Think of Github as cloud storage for your repo. Y
 __What are remotes?__
 
 They are links to other repositories. They allow you to share code.
-
-__What if I accidentally add a file to a commit?__
-
-If you haven't committed the file yet: `git rm filename.ext --cached`
-
-__...what if I committed the file?__
-
-Then you can just create a new commit (recommended) or:
-- Rollback the commit and then remove it: 
-`git reset --soft commit_hash; git rm filename.ext --cached`
-- Delete the file and amend the commit: 
-`git commit --amend -m "Commit message."`
-
 
 __I have a ton of commits on this branch. Can I squash them into one?__
 
