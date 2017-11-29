@@ -24,14 +24,14 @@ git remote add remote_name remote_address
 
 Git Workflow:
 
-Create a fork from the main project repository (upstream).
-Clone your newly forked repository to your machine (origin).
-Pull down the latest changes from upstream.
-Create a new branch to begin making your own changes.
-Add and commit your changes.
-Check if there are any new changes upstream by rebasing with upstream/master.
-Push your branch to Github.
-Create a pull request.
+1. Create a fork from the main project repository (upstream).
+2. Clone your newly forked repository to your machine (origin).
+3. Pull down the latest changes from upstream.
+4. Create a new branch to begin making your own changes.
+5. Add and commit your changes.
+6. Check if there are any new changes upstream by rebasing with upstream/master.
+7. Push your branch to Github.
+8. Create a pull request.
 
 During the workflow you’ll do various other common things like delete files, add files, make multiple commits, add new remotes and experiment with new branches. This is safe and normal to do!
 
@@ -75,7 +75,7 @@ If you haven't committed the file yet: `git rm filename.ext --cached`
 
 __...what if I committed the file?__
 
-Then you can:
+Then you can just create a new commit (recommended) or:
 - Rollback the commit and then remove it: 
 `git reset --soft commit_hash; git rm filename.ext --cached`
 - Delete the file and amend the commit: 
