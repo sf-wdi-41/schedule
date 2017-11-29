@@ -44,7 +44,7 @@
       <td><strong>3:00pm - 4:30pm </strong></td>
       <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
       <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
-      <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
+      <td><a href="https://github.com/sf-wdi-41/project-02">Outcomes</a></td>
       <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
       <td><a href="https://github.com/sf-wdi-41/project-02">Project 2</a></td>
     </tr>
