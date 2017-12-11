@@ -33,14 +33,14 @@
     <td id="d1m2"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3</a> JC/KH</td>
     <td id="d2m2"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3</a> JC/KH</td>
     <td id="d3m2"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3 presentations</a> JC</td>
-    <td id="d4m2"><a href="https://www.github.com/sf-wdi-labs/assignment">Publify</a> JC/KH</td>
+    <td id="d4m2"><a href="https://www.github.com/sf-wdi-labs/assignment">Publify</a> JC</td>
     <td id="d5m2"><a href="https://www.github.com/sf-wdi-labs/assignment">Python</a> JC</td>
   </tr>
   <tr>
     <td><strong>1:30pm - 3:00pm  Module 3</strong></td>
     <td id="d1m3"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3</a> JC/KH</td>
     <td id="d2m3"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3</a> JC/KH</td>
-    <td id="d3m3"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3 presentations</a> JC/KH</td>
+    <td id="d3m3"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3 presentations</a> JC</td>
     <td id="d4m3"><a href="https://www.github.com/,sf-wdi-labs/assignment">Angular</a> JC</td>
     <td id="d5m3"><a href="https://www.github.com/sf-wdi-labs/assignment">Django</a> JC</td>
   </tr>
