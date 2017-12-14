@@ -59,7 +59,7 @@
     <td id="d1m5"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3</a> JC/KH</td>
     <td id="d2m5"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3</a> JC/KH</td>
     <td id="d3m5"><a href="Rest">Rest</a> All</td>
-    <td id="d4m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Angular</a> JC</td>
+    <td id="d4m5"><a href="https://github.com/wdi-atx-11/tunely-angular">Angular Tunely</a> JC</td>
     <td id="d5m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Django</a> JC</td>
   </tr>
   </tbody>
