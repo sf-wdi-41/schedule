@@ -34,7 +34,7 @@
     <td id="d2m2"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3</a> JC/KH</td>
     <td id="d3m2"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3 presentations</a> JC</td>
     <td id="d4m2"><a href="https://github.com/SF-WDI-LABS/angular_directives_lab">Angular Directives</a> JC</td>
-    <td id="d5m2"><a href="https://www.github.com/sf-wdi-labs/assignment">Python</a> JC</td>
+    <td id="d5m2"><a href="https://github.com/SF-WDI-LABS/ng-read-create">Angular Create && Read</a> JC</td>
   </tr>
   <tr>
     <td><strong>1:30pm - 3:00pm  Module 3</strong></td>
@@ -42,7 +42,7 @@
     <td id="d2m3"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3</a> JC/KH</td>
     <td id="d3m3"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3 presentations</a> JC</td>
     <td id="d4m3"><a href="https://github.com/SF-WDI-LABS/angular-movie-lab">Angular Movie Lab</a> JC</td>
-    <td id="d5m3"><a href="https://www.github.com/sf-wdi-labs/assignment">Django</a> JC</td>
+    <td id="d5m3"><a href="https://github.com/SF-WDI-LABS/ng-update-delete">Angular Update && Delete</a> JC</td>
   </tr>
   <!--  Module 4 -->
   <tr>
@@ -51,7 +51,7 @@
     <td id="d2m4"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3</a> JC/KH</td>
     <td id="d3m4"><a href="https://www.github.com/sf-wdi-labs/assignment">Code Review &amp; Feedback</a> JC</td>
     <td id="d4m4"><a href="https://github.com/SF-WDI-LABS/angular-movie-lab">Angular Movie Lab</a> JC</td>
-    <td id="d5m4"><a href="https://www.github.com/sf-wdi-labs/assignment">Django</a> JC</td>
+    <td id="d5m4"><a href="https://github.com/SF-WDI-LABS/ng-update-delete">Angular Update && Delete</a> JC</td>
   </tr>
   <!--  Module 5 -->
   <tr>
@@ -60,7 +60,7 @@
     <td id="d2m5"><a href="https://www.github.com/sf-wdi-41/project-03">Project 3</a> JC/KH</td>
     <td id="d3m5"><a href="Rest">Rest</a> All</td>
     <td id="d4m5"><a href="https://github.com/wdi-atx-11/tunely-angular">Angular Tunely</a> JC</td>
-    <td id="d5m5"><a href="https://www.github.com/sf-wdi-labs/assignment">Django</a> JC</td>
+    <td id="d5m5"><a href="https://github.com/wdi-atx-11/tunely-angular">Angular Tunely</a> JC</td>
   </tr>
   </tbody>
 </table>
